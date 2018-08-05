@@ -1,4 +1,4 @@
-
+#email send out
 from smtplib import SMTP, SMTPAuthenticationError, SMTPException
 from email.mime.text import MIMEText
 
